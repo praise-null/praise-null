@@ -4,12 +4,6 @@
   <img src="https://komarev.com/ghpvc/?username=praise-null&color=blue&style=flat-square" alt="profile views" />
 </p>
 
-> "Ir sempre em busca da verdade técnica e da eficiência de sistemas."
-
----
-
-### Sobre Mim
-
 Atuo na área de **Infraestrutura de TI** e atualmente estou cursando **Engenharia de Software**. Foco o meu desenvolvimento em automação, arquitetura de redes, servidores e otimização de sistemas de ponta a ponta.
 
 - **Stack Principal:** *building* 
