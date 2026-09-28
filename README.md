@@ -1,16 +1,24 @@
-## Hi there 👋
+# Olá, eu sou o Juan / Praise (`praise-null`) 👋
 
-<!--
-**praise-null/praise-null** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=praise-null&color=blue&style=flat-square" alt="profile views" />
+</p>
 
-Here are some ideas to get you started:
+> "Ir sempre em busca da verdade técnica e da eficiência de sistemas."
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Sobre Mim
+
+Atuo na área de **Infraestrutura de TI** e atualmente estou cursando **Engenharia de Software na FIAP**. Foco o meu desenvolvimento em automação, arquitetura de redes, servidores e otimização de sistemas de ponta a ponta.
+
+- **Stack Principal:** JavaScript, automação de scripts, Linux e ferramentas de terminal.
+- **Infraestrutura & Redes:** Gestão de servidores Dell, redes Ubiquiti e estruturação de ambientes corporativos.
+- **Projetos Atuais:** Desenvolvimento da minha página pessoal (`praise-null.praiseoffc.workers.dev`) e arquitetura de comunidades e automações.
+
+---
+
+### 🛠️ Tech Stack & Ferramentas
+
+```bash
+praise@root:~$ neofetch --profile
