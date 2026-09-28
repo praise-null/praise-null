@@ -1,18 +1,19 @@
-# Olá 👋
+### Olá. Eu sou o Juan.
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=praise-null&color=blue&style=flat-square" alt="profile views" />
-</p>
-
-Atuo na área de **Infraestrutura de TI** e atualmente estou cursando **Engenharia de Software**. Foco o meu desenvolvimento em automação, arquitetura de redes, servidores e otimização de sistemas de ponta a ponta.
-
-- **Stack Principal:** *building* 
-- **Infraestrutura & Redes:** Gestão de servidores, redes Ubiquiti e estruturação de ambientes corporativos.
-- **Projetos Atuais:** *building*
+Atuei em infraestrutura de TI e atualmente construo arquiteturas de software e sistemas orientados a performance.
 
 ---
 
-### 🛠️ Tech Stack & Ferramentas
+### Stack de Operação
 
-```bash
-praise@root:~$ neofetch --profile
+*   **Linguagens & Lógica:** JavaScript, TypeScript, Python, SQL.
+*   **Infraestrutura & Redes:** Linux, Docker, Cloudflare, Redes TCP/IP, Automação de Sistemas.
+*   **Arquitetura:** Microsserviços, Design de APIs, Modelagem de Dados.
+
+---
+
+### Métricas de Impacto
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
