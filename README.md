@@ -6,9 +6,9 @@ Atuei em infraestrutura de TI e atualmente construo arquiteturas de software e s
 
 ### Stack de Operação
 
-*   **Linguagens & Lógica:** JavaScript, TypeScript, Python, SQL.
+*   **Linguagens & Lógica:** .
 *   **Infraestrutura & Redes:** Linux, Docker, Cloudflare, Redes TCP/IP, Automação de Sistemas.
-*   **Arquitetura:** Microsserviços, Design de APIs, Modelagem de Dados.
+*   **Arquitetura:** .
 
 ---
 
